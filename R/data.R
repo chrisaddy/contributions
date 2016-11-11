@@ -9,3 +9,15 @@
 #' For further details and source, see \url{http://www.fec.gov/finance/disclosure/metadata/CommitteeTypeCodes.shtml}
 #'
 "committee_code"
+
+#' Party Codes
+#'
+#' @format A data frame with two variables:
+#' \describe{
+#' \item{\code{party_code}}{A 1-3 character alphabetic code assigned to a party by the Federal Election Commission. The party code for a specific party always remains the same.}
+#' \item{\code{party}}{Official name of party as recognized by the FEC.}
+#' }
+#'
+#' For further details and source, see \url{http://www.fec.gov/finance/disclosure/metadata/DataDictionaryPartyCodeDescriptions.shtml}
+#'
+"party_code"

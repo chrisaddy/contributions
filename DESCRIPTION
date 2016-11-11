@@ -1,0 +1,9 @@
+Package: contributions
+Title: US Campaign Contributions
+Version: 0.0.1.9000
+Authors@R: person("Chris", "Addy", email = "chris.william.addy@gmail.com", role = c("aut", "cre"))
+Description: Political campaign contributions from the US Federal Elections Commission.
+Depends: R (>= 3.3.0)
+License: CC0
+Encoding: UTF-8
+LazyData: true
